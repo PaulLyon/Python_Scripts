@@ -6,7 +6,7 @@
 
 import matplotlib.pyplot as plt
 import numpy as np
-from math import *
+from math import pi
 
 START_TIME = 0.0
 STOP_TIME = 2.0
