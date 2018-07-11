@@ -61,9 +61,7 @@ y_txt_origin = np.median(y_data)
 #************************************************************
 
 plt.figure(figsize=FIGURE_SIZE)
-
 plt.scatter(x_data, y_data)
-
 plt.plot(x_fit, y_fit)
 
 plt.tight_layout()
